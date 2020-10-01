@@ -15,7 +15,7 @@ function setTime(){
 
 setTime();
 
-// Dom Variables first page
+// dynamically updated HTML
 var h1 = document.createElement("h1");
 h1.textContent = "Coding Quiz Challenge";
 h1.setAttribute("style", "text-align:center");

@@ -1,4 +1,4 @@
-
+/* updated styles for dynamically update html  */
   h1 {
   margin-bottom: 1rem;
   font-weight: 500;
@@ -19,7 +19,7 @@
 
   }
 
-body {
+ button {
     color: white;
     text-align: center;
     line-height: 70px;
@@ -28,4 +28,4 @@ body {
     background: rgb(110, 10, 110);
     border: none;
     
-  };
+  }; 
