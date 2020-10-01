@@ -1,10 +1,11 @@
 
 // This is the timer
 var secondsLeftEl = document.getElementById("#seconds");
+
 function setTime(){
   var secondsLeft = 75;
   var timerInterval = setInterval(function(){
-        secondsLeft ++;
+        secondsLeft --;
         
         if(secondsLeft === 0) {
         clearInterval(timerInterval)
