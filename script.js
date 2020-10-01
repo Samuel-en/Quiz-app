@@ -34,5 +34,8 @@ document.body.append(button);
 
 
 button.addEventListener ("click", function() {
-  alert("did something");
+  alert("game is starting soon!");
 });
+
+
+
